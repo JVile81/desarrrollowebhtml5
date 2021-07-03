@@ -1,0 +1,36 @@
+body{
+    background-image: url(../img/paperback.jpg);
+}
+
+h1{
+    text-shadow: 2px 2px 2px red;
+}
+
+a:hover{
+    color: darkblue;
+}
+
+p{
+    text-align: justify;
+    color: black;
+    padding: 10px;
+}
+.Parrafo{
+    border: 2px dotted;
+    margin: 10px;
+}
+
+#imagen1{
+    height: 10%;
+    width: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#imagen2{
+    height: 15%;
+    width: 15%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
